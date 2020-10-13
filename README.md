@@ -7,4 +7,4 @@ Web Developer
 
 Enthusiast of the best web development technologies.
 
-Technologies & Tools: NodeJS, React, Javascript, HTML5, CSS3, SASS, LESS, Gulp, Magento2.
+:computer: Technologies & Tools: NodeJS, React, Javascript, HTML5, CSS3, SASS, LESS, Gulp, Magento2.
